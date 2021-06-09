@@ -4,13 +4,13 @@
 
 Система реализована на языке Python. Использовались следующие инструменты и библиотеки:
 
-PyTorch, https://github.com/pytorch/examples/tree/master/fast_neural_style
+ - PyTorch, https://github.com/pytorch/examples/tree/master/fast_neural_style
 
-OPM Flow
+ - OPM Flow
 
-Ecl (Eclipse format Tools)
+ - Ecl (Eclipse format Tools)
 
-pyswarms
+ - pyswarms
 
 Для запуска необходимо установить гидродинамический симулятор OPM Flow (https://opm-project.org/)
 
