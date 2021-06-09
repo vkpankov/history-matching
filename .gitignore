@@ -1,0 +1,10 @@
+note
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/settings.json
+.vscode/targets.log
+__pycache__/BinRealGenerator.cpython-38.pyc
+__pycache__/HistoryMatching.cpython-38.pyc
+__pycache__/Simulator.cpython-38.pyc
+__pycache__/transformer_net.cpython-38.pyc
+__pycache__/utils.cpython-38.pyc
